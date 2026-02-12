@@ -1,0 +1,63 @@
+{
+  "streaming": [
+    { "name": "<:netflix:1471071892071911516> Netflix Lifetime", "price": 0.0 },
+    { "name": "<:disney:1471071917770412124> Disney Lifetime", "price": 0.0 },
+    { "name": "<:plex:1471071897239294099> PlexTV Lifetime", "price": 0.0 },
+    { "name": "📺 Pureflix", "price": 0.0 },
+    { "name": "🔞 PornHub Premium Lifetime", "price": 0.0 },
+    { "name": "<:crunchy:1471071815152439308> Crunchyroll Lifetime", "price": 0.0 },
+    { "name": "<:max:1471071994140430420> HBO Max Lifetime", "price": 0.0 },
+    { "name": "<:youtube:1471071910233374772> YouTube Premium Family Owner (1 Month)", "price": 0.0 },
+    { "name": "<:spotify:1471079286936043600> Spotify Premium 2 Month", "price": 0.0 },
+    { "name": "<:prime:1471071900380954698> Prime Video Lifetime", "price": 0.0 },
+    { "name": "<:nba:1471071889278505077> NBA Lifetime", "price": 0.0 },
+    { "name": "<:dazn:1471071912724791357> DAZN Spain", "price": 0.0 },
+    { "name": "<:dazn:1471071912724791357> DAZN Italy", "price": 0.0 },
+    { "name": "<:dazn:1471071912724791357> DAZN Germany", "price": 0.0 },
+    { "name": "<:dazn:1471071912724791357> DAZN France", "price": 0.0 },
+    { "name": "<:dazn:1471071912724791357> DAZN UK", "price": 0.0 },
+    { "name": "<:dazn:1471071912724791357> DAZN US", "price": 0.0 },
+    { "name": "📡 TodTV", "price": 0.0 },
+    { "name": "📺 MolotovTV", "price": 0.0 },
+    { "name": "🎬 CDA Lifetime", "price": 0.0 },
+    { "name": "📺 Polsat", "price": 0.0 }
+  ],
+  "gaming": [
+    { "name": "<:ea:1471071920131805436> EA SPORTS", "price": 0.0 },
+    { "name": "<:epic:1471071922329751698> Epic Games", "price": 0.0 },
+    { "name": "<:steam:1471071904902414540> Steam", "price": 0.0 },
+    { "name": "<:minecraft:1471071998745645242> Minecraft", "price": 0.0 },
+    { "name": "<:clash:1471071752531476551> Clash Royale", "price": 0.0 },
+    { "name": "<:fortnite:1471071924884082824> Fortnite Skins & Packs", "price": 0.0 },
+    { "name": "<:roblox:1471071902847209636> Robux 5,000", "price": 0.0 },
+    { "name": "<:roblox:1471071902847209636> Robux 10,000", "price": 0.0 },
+    { "name": "<:roblox:1471071902847209636> Robux 50,000+", "price": 0.0 },
+    { "name": "🏆 Trophies (various ranges)", "price": 0.0 },
+    { "name": "<:epic:1471071922329751698> Epic Games Accounts", "price": 0.0 },
+    { "name": "<:steam:1471071904902414540> Steam Lifetime", "price": 0.0 },
+    { "name": "<:fortnite:1471071924884082824> Fortnite V-Bucks", "price": 0.0 },
+    { "name": "<:steam:1471071904902414540> Fresh Steam", "price": 0.0 },
+    { "name": "<:minecraft:1471071998745645242> Minecraft NFA", "price": 0.0 },
+    { "name": "<:minecraft:1471071998745645242> Minecraft Full Access", "price": 0.0 }
+  ],
+  "vpn": [
+    { "name": "<:ipvanish:1471071991715860552> IPVanish Lifetime", "price": 0.0 },
+    { "name": "<:tunnel:1471071907595030539> TunnelBear Lifetime", "price": 0.0 },
+    { "name": "<:nord:1471071894450212884> NordVPN Lifetime", "price": 0.0 }
+  ],
+  "accounts": [
+    { "name": "💰 Stake Accounts LVL 2 Verified", "price": 0.0 },
+    { "name": "<:gpt:1471071926918053964> Chat GPT+ Lifetime", "price": 0.0 },
+    { "name": "<:gpt:1471071926918053964> Chat GPT+ [Lifetime] [FA]", "price": 0.0 },
+    { "name": "🛍️ LetyShop Account With Balance", "price": 0.0 }
+  ],
+  "codes": [
+    { "name": "<:discord:1471071915631313030> Nitro Promo Code (1 Month)", "price": 0.0 },
+    { "name": "<:discord:1471071915631313030> Nitro Promo Code (3 Months)", "price": 0.0 },
+    { "name": "<:microsoft:1471071996329590814> Microsoft Random Codes", "price": 0.0 }
+  ],
+  "outofstock": [
+    { "name": "📺 Paramount+ [USA] Lifetime", "price": 0.0 },
+    { "name": "⚽ Eleven Sports", "price": 0.0 }
+  ]
+}
