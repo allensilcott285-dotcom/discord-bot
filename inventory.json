@@ -1,6 +1,6 @@
 {
   "streaming": [
-    { "name": "<:netflix:1471071892071911516> Netflix Lifetime", "price": 0.0 },
+    { "name": "<:netflix:1471071892071911516> Netflix Lifetime", "price": 5.0 },
     { "name": "<:disney:1471071917770412124> Disney Lifetime", "price": 0.0 },
     { "name": "<:plex:1471071897239294099> PlexTV Lifetime", "price": 0.0 },
     { "name": "📺 Pureflix", "price": 0.0 },
@@ -60,4 +60,5 @@
     { "name": "📺 Paramount+ [USA] Lifetime", "price": 0.0 },
     { "name": "⚽ Eleven Sports", "price": 0.0 }
   ]
+
 }
